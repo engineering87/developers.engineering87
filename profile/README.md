@@ -195,6 +195,19 @@
   
 
 
+- [pdnd-client-assertion-generator](https://github.com/italia/pdnd-client-assertion-generator)
+  <img align="right" src="https://img.shields.io/github/stars/italia/pdnd-client-assertion-generator?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/pdnd-client-assertion-generator" alt="GitHub issues">\
+  Tool per la generazione di client assertion per PDND
+
+
+
+- [pdnd-metadata-dotnet](https://github.com/italia/pdnd-metadata-dotnet)
+  <img align="right" src="https://img.shields.io/github/stars/italia/pdnd-metadata-dotnet?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/pdnd-metadata-dotnet" alt="GitHub issues">\
+  Libreria .NET per la gestione dei metadati PDND
+
+
 
 ## 📐 Design
 
